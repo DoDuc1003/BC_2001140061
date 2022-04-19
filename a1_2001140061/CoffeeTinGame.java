@@ -68,7 +68,7 @@ public class CoffeeTinGame {
         }
 
         // initialise some beans.
-        char[] tin = {BLUE, BLUE, BLUE, GREEN, GREEN, GREEN, BLUE, BLUE, GREEN, GREEN};
+        char[] tin = {BLUE, BLUE, BLUE, GREEN, GREEN, GREEN};
 
 
         int greens = 0;
